@@ -1,2 +1,2 @@
 # profile
-I'm a student of Shanghai University
+I'm a student from Shanghai University.
